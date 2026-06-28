@@ -79,8 +79,8 @@ A digital system for managing bus pass applications and administration.
 
 ## 📫 Connect With Me
 
-💼 LinkedIn: Add your LinkedIn link  
-📧 Email: Add your email  
+💼 LinkedIn: https://www.linkedin.com/in/sanskruti-shinde-s26/
+📧 Email: sanskrutishinde581@gmail.com
 
 ---
 
