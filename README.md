@@ -5,7 +5,7 @@
 Welcome to my GitHub profile!  
 I am a Computer Engineering student passionate about building scalable, user-friendly, and impactful software solutions.
 
-I enjoy working on **full-stack web development, cloud technologies, AI-based applications, and problem-solving**.
+I enjoy working on **full-stack web development, Data Engineering , cloud technologies, AI-based applications, and problem-solving**.
 
 ---
 
