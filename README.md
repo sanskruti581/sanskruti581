@@ -71,11 +71,6 @@ A digital system for managing bus pass applications and administration.
 
 ---
 
-## 📊 GitHub Stats
-
-![Sanskruti's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanskruti581&show_icons=true&theme=radical)
-
----
 
 ## 📫 Connect With Me
 
